@@ -1,0 +1,8 @@
+{
+  "name": "dr-pia-gmb-post",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dr. Pia service GMB post report",
+  "scripts": { "build": "node scripts/build.mjs" },
+  "engines": { "node": ">=20" }
+}
