@@ -2,6 +2,8 @@
 
 Live website: **https://dr-pia-gmb-post.vercel.app/**
 
+This repository is public, and its `main` branch is connected to the existing Vercel project for automatic production deployments. Mike's GitHub account (`mmerlino23`) has been invited with write access. See the [step-by-step update guide](UPDATE-GUIDE.md) for editing text and replacing images in GitHub.
+
 This repository contains the website source for the 13 service Google Business Profile drafts, their latest branded artwork, and the Dr. Pia logo. The report is a review collection; deploying this website does not publish the drafts to Google Business Profile.
 
 ## Update the report

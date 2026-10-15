@@ -40,6 +40,8 @@ Open `public/assets/` in GitHub and upload a replacement PNG using the same file
 
 The existing Vercel project is connected to this repository's `main` branch. The shared Vercel login provides access to its dashboard; GitHub repository permission controls editing the source.
 
+This repository is public so collaborators can deploy on the current Hobby plan. Mike can edit after accepting his GitHub write-access invitation. Commits to `main` trigger production deployments; check the **Ready** status and live URL for each update.
+
 Vercel Hobby has an additional author check for private repositories: only commits authored by the Hobby account's connected GitHub owner can deploy. A collaborator's private-repository commit may be blocked even when the dashboard login is shared. Public repositories support free collaboration; private collaboration requires a suitable Vercel plan and contributor access. See [Vercel's collaboration documentation](https://vercel.com/docs/deployments/troubleshoot-project-collaboration).
 
 If a build or permission check fails, the previous working site remains live. Check the failed deployment before treating a commit as published. Publishing this report does not schedule or publish the individual Google Business Profile drafts.
